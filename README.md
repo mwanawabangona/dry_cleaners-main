@@ -1,8 +1,4 @@
-# Portfolio portfolio
-
-The project is inspired by the figma microverse template 1 (https://figma.com/)
-For this portfolio website, I implemented Html And Css that includes the project details in mobile.
-
+# Best Laundry App
 
 ![chappa](https://github.com/mwanawabangona/dry_cleaners-main/assets/66230306/35be10a5-899d-4e26-b6c1-bcc5780e4d16)
 
@@ -63,24 +59,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Thanks to Microverse and my Coding Partners
+- Thanks to People contributed to this project
 
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
-# Best laundry application
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
